@@ -1,4 +1,4 @@
-## Dive_reflex
+## The mammalian dive reflex
 
 A simple app to graph the change in heart rate under three conditions:  
 1. Normal breath-hold;    
